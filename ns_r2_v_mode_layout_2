@@ -1,0 +1,1 @@
+{"Title":"Decompiler","Cmd":"pdc","x":0,"y":1,"w":160,"h":37},{"Title":"Search strings in the whole bin","Cmd":"izzq~","x":0,"y":37,"w":115,"h":21},{"Title":"Functions","Cmd":"afl","x":114,"y":37,"w":63,"h":21},{"Title":"Xrefs Here","Cmd":"ax.","x":176,"y":37,"w":63,"h":21},{"Title":"Disassembly","Cmd":"pd","x":159,"y":1,"w":80,"h":37}

@@ -1,0 +1,1 @@
+{"Title":"Disassembly","Cmd":"pd","x":0,"y":1,"w":184,"h":37},{"Title":"Stack","Cmd":"xc 256@r:SP","x":0,"y":37,"w":115,"h":21},{"Title":"Functions","Cmd":"afl","x":114,"y":37,"w":70,"h":21},{"Title":"Registers","Cmd":"dr","x":183,"y":1,"w":56,"h":25},{"Title":"Symbols","Cmd":"isq","x":183,"y":25,"w":56,"h":33}
