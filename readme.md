@@ -1,3 +1,9 @@
+# Radare2 Customizations
+
+~/.radare2rc is the config file for Radare2. We can add our desired / required radare2 configuration or cmd command to the ~/.radare2rc file and this configuration or cmd will load whenever we run radare2.
+I like to customize my Radare2 installation and sometimes its annoying to create .radare2rc file or create visual panel layout whenever I install new OS. So I thought why not upload the .radare2rc and visual panel layout files to Github and I don't have to create all those files every time and it may help others too. 🤟🤟
+
+### .radare2rc
 You need to keep this file in your home directory.
 Use the following command to move the file.
 `mv .radare2rc ~/.radare2rc`
